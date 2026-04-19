@@ -1,0 +1,2 @@
+class LRItem:
+    pass

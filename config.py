@@ -1,0 +1,2 @@
+EPSILON = 'ε'
+ENDMARK = '$'
